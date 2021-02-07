@@ -149,6 +149,22 @@ body {
   text-align: center;
 }
 
+.footer {
+  text-align: right;
+}
+
+.footer h3 {
+  font-size: 12px;
+  line-height: 1em;
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.footer h3 a {
+  text-decoration: none;
+  color: var(--body-color);
+}
+
 .cards {
   display: flex;
   flex-wrap: wrap;
